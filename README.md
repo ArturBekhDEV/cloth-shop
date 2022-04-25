@@ -23,4 +23,4 @@ How asynchronous redux works, firebase, and etc.
 
 ===/
 
-Feel free to use it and write for me. Thank you for attention!
+Feel free to use it and write me. Thank you for attention!
