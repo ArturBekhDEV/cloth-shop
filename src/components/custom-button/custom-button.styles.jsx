@@ -15,7 +15,7 @@ const buttonStyles = css`
 export const invertedButtonStyles = css`
   background-color: white;
   color: black;
-  border: 2px solid black;
+  border: 1px solid black;
 
   &:hover {
     background-color: black;
@@ -53,8 +53,7 @@ export const CustomButtonContainer = styled.button`
   color: white;
   text-transform: uppercase;
   font-family: "Open Sans";
-  font-weight: border;
-  border: none;
+  font-weight: bolder;
   cursor: pointer;
   display: flex;
   justify-content: center;
