@@ -1,6 +1,7 @@
 # Hello everyone, i want to show your e-commerce project.
 
 ===/ This is a simple online store of things, it was made with React/Redux.
+If you want to see it live: https://cloth-shopcrwn.herokuapp.com/
 
 ## I have also used technologies such as:
 
